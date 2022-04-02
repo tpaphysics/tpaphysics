@@ -29,7 +29,7 @@ About me I like technologies, travelling, playing guitar and enjoying good wine.
 
 
 
-📬 Meus contatos:
+📬 My contacts:
 
 [![linked-in](https://img.shields.io/badge/Linkedin_|_Thiago_Pacheco-0077B5?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thiago-pacheco-200a1a86/)
  [![Gmail Badge](https://img.shields.io/badge/-physics.posgrad@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:jairo.doni97@gmail.com)](mailto:physics.posgrad@gmail.com) 
