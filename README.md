@@ -22,8 +22,7 @@ I'm a full stack developer :computer:
 
 
  <br/> - 🎓👨‍🎓 I Have a degree in physics and almost a master's degree in quantum mechanics ⚛️
- <br/> - 👨‍🚀 &nbsp; About me: 
-About me I like technologies, travelling, playing guitar and enjoying good wine.
+ <br/> - 👨‍🚀 &nbsp; About me: I like technologies, travelling, playing guitar and enjoying good wine.
  <br/>
  
 
