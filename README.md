@@ -21,7 +21,7 @@ I'm a full stack developer :computer:
  <br/> - :blush: &nbsp;I can help you. I have advanced knowledge of mathematics, statistical mechanics, analytical mechanics, differential geometry and quantum mechanics. 
 
 
- <br/> - 🎓👨‍🎓 Have a degree in physics and almost a master's degree in quantum mechanics ⚛️
+ <br/> - 🎓👨‍🎓 I Have a degree in physics and almost a master's degree in quantum mechanics ⚛️
  <br/> - 👨‍🚀 &nbsp; About me: 
 About me I like technologies, travelling, playing guitar and enjoying good wine.
  <br/>
