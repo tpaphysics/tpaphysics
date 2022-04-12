@@ -46,6 +46,7 @@ I'm a full stack developer :computer:
   <code><img height="20" src="https://img.shields.io/badge/JavaScript-222222?style=style=flat&&logo=javascript&logoColor=F7DF1E"></code>
   <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&&logo=typescript&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></code>
