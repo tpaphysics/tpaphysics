@@ -39,23 +39,23 @@ I'm a full stack developer :computer:
  
 :computer: &nbsp;Stacks: 
 <div style="display: inline-block">
-  <code><img height="20" style="border-radius: 3px;"src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-  <code><img height="20" style="border-radius: 3px;" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></code>
-  <code><img height="20" style="border-radius: 3px;"  src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)"></code>
-  <code><img height="20" style="border-radius: 3px;"src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
+  <code><img height="20" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)"></code>
+  <code><img height="20" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></code>
   <code><img height="20" src="https://img.shields.io/badge/JavaScript-222222?style=style=flat&&logo=javascript&logoColor=F7DF1E"></code>
   <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&&logo=typescript&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"></code>
-  <code><img height="20" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></code>
-  <code><img height="20" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"></code>
-  <code><img style="border-radius: 3px;"  height="20" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=flat&&logo=react&logoColor=61DAFB"></code>
   <code><img height="20" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"></code>
-  <code><img style="border-radius: 3px;"  height="20" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></code>
-  <code><img height="20" style="border-radius: 3px;" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white"></code>
 </div>
 
 ##
