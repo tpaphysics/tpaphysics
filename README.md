@@ -42,6 +42,9 @@ I'm a full stack developer :computer:
   <code><img height="20" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)"></code>
+  <code><img height="20" src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat"></code>
+  <code><img height="20" src="https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></code>
   <code><img height="20" src="https://img.shields.io/badge/JavaScript-222222?style=style=flat&&logo=javascript&logoColor=F7DF1E"></code>
   <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&&logo=typescript&logoColor=white"></code>
