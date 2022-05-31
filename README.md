@@ -18,7 +18,7 @@ I'm a full stack developer :computer:
  />
 
  <br/> - 🚀 &nbsp;I am currently a full stack developer. Working hard and learning a lot everyday. Teamwork is the secret. We can learn a lot even from a child.
- <br/> - :blush: &nbsp;I can help you. I have advanced knowledge of mathematics, statistical mechanics, analytical mechanics, differential geometry and quantum mechanics. 
+ <br/> - :blush: &nbsp;I have advanced knowledge of mathematics, statistical mechanics, analytical mechanics, differential geometry and quantum mechanics. 
 
 
  <br/> - 🎓👨‍🎓 I Have a degree in physics and almost a master's degree in quantum mechanics ⚛️
