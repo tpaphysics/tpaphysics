@@ -11,7 +11,7 @@ I'm developer and physicist :computer:
 
 <!-- IMAGEM -->
  <img
-   src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761182a0214b444e4d6d5293f7e5cc7f8586862209a4&rid=giphy.gif&ct=g" 
+   src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/media/105bb0195c3b7c8b45568f0080187404.gif"
    alt="Thiago Pacheco - tpaphysics"
    width="35%"
    align="right"
