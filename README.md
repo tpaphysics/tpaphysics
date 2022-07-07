@@ -7,7 +7,7 @@ I am Brazilian and I live in a tropical country.
 
 Passionate about technology and looking for new challenges. 
 
-I'm a full stack developer and physicist :computer: 
+I'm developer and physicist :computer: 
 
 <!-- IMAGEM -->
  <img
