@@ -18,7 +18,7 @@ I'm developer and physicist :computer:
  />
 
  <br/> - 🎓👨‍🎓 I Have a degree in physics and almost a master's degree in quantum mechanics ⚛️
- <br/> - 👨‍🚀🍷 &nbsp; About me: I like technologies, travelling, playing guitar and enjoying good wine.
+ <br/> - 👨‍🚀🍷 About me: I like technologies, travelling, playing guitar and enjoying good wine.
  <br/>
  
 
@@ -33,7 +33,7 @@ I'm developer and physicist :computer:
 
 
  
-:computer: &nbsp;Stacks: 
+:computer: &nbsp;Thecs: 
 <div style="display: inline-block">
   <code><img height="20" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"></code>
