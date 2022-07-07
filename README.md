@@ -7,7 +7,7 @@ I am Brazilian and I live in a tropical country.
 
 Passionate about technology and looking for new challenges. 
 
-I'm a full stack developer :computer: 
+I'm a full stack developer and physicist :computer: 
 
 <!-- IMAGEM -->
  <img
@@ -17,12 +17,8 @@ I'm a full stack developer :computer:
    align="right"
  />
 
- <br/> - 🚀 &nbsp;I am currently a full stack developer. Working hard and learning a lot everyday. Teamwork is the secret. We can learn a lot even from a child.
- <br/> - :blush: &nbsp;I have advanced knowledge of mathematics, statistical mechanics, analytical mechanics, differential geometry and quantum mechanics. 
-
-
  <br/> - 🎓👨‍🎓 I Have a degree in physics and almost a master's degree in quantum mechanics ⚛️
- <br/> - 👨‍🚀 &nbsp; About me: I like technologies, travelling, playing guitar and enjoying good wine.
+ <br/> - 👨‍🚀🍷 &nbsp; About me: I like technologies, travelling, playing guitar and enjoying good wine.
  <br/>
  
 
