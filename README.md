@@ -1,8 +1,6 @@
 
 # Thiago Pacheco
 
-## 👋 Hey guys! Welcome to my profile!
-
 I am Brazilian and I live in a tropical country. 
 
 Passionate about technology and looking for new challenges. 
