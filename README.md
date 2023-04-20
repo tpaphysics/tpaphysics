@@ -6,17 +6,11 @@
    align="right"
  />
 
-My name is **Thiago** and I'm a programmer and physicist passionate about challenges and technology.
+Hello, I am Thiago, CEO and founder of Singularidade Tech, a company specialized in technology solutions for software development, data science, and artificial intelligence. With a background in physics, it has helped me gain a solid understanding of scientific fundamentals, which allows me to have a comprehensive view of the world and always seek new technological challenges.
 
-Currently, I'm looking for new challenges that can take me to the next level in my career.
+Throughout my career, I have worked as a software engineer, programming microcontrollers in C++, embedded systems, the Internet of Things (IoT), backend, web, and mobile development, as well as having knowledge in various languages such as JavaScript, TypeScript, Python, Shell, among others. Currently, I am working with technologies such as NestJS, ReactJS, React Native, Next.js, PrismaORM, TypeORM, Postgres, MySQL, MongoDB, and InfluxDB, PrismicCMS, Contentful, Strapi, Firebase, Google Cloud Platform, among others.
 
-My education in physics gave me a broad view of the world and a deep understanding of the fundamentals of science.
-
-As a programmer, I have experience in C++, Javascript, Typescript, Shell, among others. Additionally, I'm always looking for new technologies and frameworks to expand my knowledge and skills.
-
-Aside from technology, I appreciate the good life and enjoy a good wine. I believe it's important to find a balance between work and leisure to succeed in all areas of life.
-
-If you want to know more about me, feel free to contact me through the links below.
+If you want to know more about my journey, our company, or discuss possible collaborations, feel free to get in touch. I am always open to new opportunities and challenges.
 
  
 📬 My contacts:
