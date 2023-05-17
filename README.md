@@ -8,7 +8,7 @@
   />
 </a>
 
-Hello, I am Thiago, CEO and founder of Singularidade Tech, a company specialized in technology solutions for software development, data science, and artificial intelligence. I am the founder of
+Hello, I am Thiago, founder of Singularidade Tech, a company specialized in technology solutions for software development, data science, and artificial intelligence. I am the founder of
 [Exploradores Modernos](https://www.exploradoresmodernos.com.br/) Portal, a platform that uses artificial intelligence to provide a user experience with innovative solutions. With a background in physics, it has helped me gain a solid understanding of scientific fundamentals, which allows me to have a comprehensive view of the world and always seek new technological challenges.
 
 Throughout my career, I have worked as a software engineer, programming microcontrollers in C++, embedded systems, the Internet of Things (IoT), backend, web, and mobile development, as well as having knowledge in various languages such as JavaScript, TypeScript, Python, Shell, among others. Currently, I am working with technologies such as NestJS, ReactJS, React Native, Next.js, PrismaORM, TypeORM, Postgres, MySQL, MongoDB, and InfluxDB, PrismicCMS, Contentful, Strapi, Firebase, Google Cloud Platform, among others.
