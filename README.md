@@ -8,7 +8,7 @@
   />
 </a>
 
-Olá, sou Thiago da Singularidade Tech. Nos especializamos em soluções tecnológicas e sou o criador do portal de notícias [Exploradores Modernos](https://www.exploradoresmodernos.com.br/), focado em ciência, tecnologia, astronomia e temas relacionados. 📬 Contato:
+Olá, sou Thiago da Singularidade Tech. Somos especializamos em soluções de software e também criador, desenvolvedor e gestor do portal de notícias [Exploradores Modernos](https://www.exploradoresmodernos.com.br/), focado em ciência, tecnologia, astronomia e temas relacionados. 📬 Contato:
 
 [![Gmail Badge](https://img.shields.io/badge/-physics.posgrad@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:physics.posgrad@gmail.com)](mailto:physics.posgrad@gmail.com)
 
