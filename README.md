@@ -8,11 +8,7 @@
   />
 </a>
 
-Hello, I am Thiago, founder of Singularidade Tech, a company specialized in technology solutions for software development.
-[Exploradores Modernos](https://www.exploradoresmodernos.com.br/) Portal, a platform that uses artificial intelligence to provide a user experience with innovative solutions.
-📬 My contacts:
-
-[![linked-in](https://img.shields.io/badge/Linkedin_|_Thiago_Pacheco-0077B5?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thiago-pacheco-200a1a86/)
+Olá, sou Thiago da Singularidade Tech. Nos especializamos em soluções tecnológicas e sou o criador do portal de notícias [Exploradores Modernos](https://www.exploradoresmodernos.com.br/), focado em ciência, tecnologia, astronomia e temas relacionados. 📬 Contato:
 
 [![Gmail Badge](https://img.shields.io/badge/-physics.posgrad@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:physics.posgrad@gmail.com)](mailto:physics.posgrad@gmail.com)
 
