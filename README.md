@@ -8,7 +8,7 @@
   />
 </a>
 
-Olá, sou Thiago, criador e desenvolvedor do portal de notícias [Exploradores Modernos](https://www.exploradoresmodernos.com.br/), focado em ciência, tecnologia, astronomia e temas relacionados. 📬 Contato:
+Olá, sou Thiago, criador do portal de notícias [Exploradores Modernos](https://www.exploradoresmodernos.com.br/), focado em ciência, tecnologia, astronomia e temas relacionados. 📬 Contato:
 
 [![Gmail Badge](https://img.shields.io/badge/-physics.posgrad@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:physics.posgrad@gmail.com)](mailto:physics.posgrad@gmail.com)
 
